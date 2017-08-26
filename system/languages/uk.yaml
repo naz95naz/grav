@@ -15,8 +15,8 @@ FRONTMATTER_ERROR_PAGE: |
   ```
 NICETIME:
   NO_DATE_PROVIDED: Не вказана дата
-  BAD_DATE: Невірна дата
-  AGO: назад
+  BAD_DATE: Неправильна дата
+  AGO: тому
   FROM_NOW: відтепер
   SECOND: секунда
   MINUTE: хвилина
@@ -50,7 +50,7 @@ NICETIME:
   DEC_PLURAL: рр.
 FORM:
   VALIDATION_FAIL: '<b>Перевірка не вдалася:</b>'
-  INVALID_INPUT: Невірне введення в
+  INVALID_INPUT: Неправильне введення в
   MISSING_REQUIRED_FIELD: 'Відсутнє необхідне поле:'
 MONTHS_OF_THE_YEAR:
   - Січень
